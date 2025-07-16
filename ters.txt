@@ -1,2 +1,3 @@
 elchin nuriyev
 dogum tarixi
+ay,gun
