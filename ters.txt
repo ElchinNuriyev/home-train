@@ -3,3 +3,4 @@ dogum tarixi
 ay,gun
 il
 yasayis yeri
+is yeri
