@@ -2,5 +2,9 @@ elchin nuriyev
 dogum tarixi
 ay,gun
 il
+<<<<<<< HEAD
 yasayis yeri
 is yeri
+=======
+qeydiyyat yeri
+>>>>>>> 57f09673d0fb8a56b4e57e362f92eb86363a6942
